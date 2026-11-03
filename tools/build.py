@@ -55,7 +55,7 @@ h2{font-size:clamp(28px,4.2vw,44px);font-weight:800}h3{font-size:20px;font-weigh
 .hero{padding:72px 0 40px}.hero .wrap{display:grid;grid-template-columns:1.05fr .95fr;gap:40px;align-items:center}
 .hero h1{margin:16px 0 22px}.hero .btns{display:flex;gap:14px;flex-wrap:wrap;margin:30px 0 18px}
 .dev{color:var(--mute);font-weight:700;font-size:14px}
-.shot{border-radius:28px;border:1px solid var(--line);box-shadow:0 36px 70px -30px rgba(23,32,58,.45);background:var(--card)}
+.shot{height:auto;border-radius:28px;border:1px solid var(--line);box-shadow:0 36px 70px -30px rgba(23,32,58,.45);background:var(--card)}
 .phones{position:relative;height:640px}
 .phones .shot{position:absolute;width:270px}
 .phones .p1{left:48%;top:0;transform:rotate(5deg);animation:float 7s ease-in-out infinite}
